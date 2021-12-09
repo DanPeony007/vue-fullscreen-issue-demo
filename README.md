@@ -20,13 +20,12 @@ npm run dev
 
 ### 1、未全屏时，正常显示
 
-![image](https://user-images.githubusercontent.com/41480235/145368865-2c73113d-6f68-48d2-a3cf-e7f197d810ae.png)
+[图片]![image](https://user-images.githubusercontent.com/41480235/145392277-246da675-ca44-4ba2-b934-76f208c23fa1.png)
 
 ### 2、teleport 设置为 false 时，下拉框，popover、drawer等打不开
 
-![image](https://user-images.githubusercontent.com/41480235/145368962-fdd0b9fd-4eb2-4690-abc7-9491388ba25c.png)
+[图片]![image](https://user-images.githubusercontent.com/41480235/145392299-ddc4c6a9-aaca-4994-b326-81579e47ea81.png)
 
-### 3、teleport 设置为 true 时，左侧菜单栏遮挡，tinymce 内容丢失
+### 3、teleport 设置为 true 时，tinymce 内容丢失（iframe 中 body 为空）
 
-![image](https://user-images.githubusercontent.com/41480235/145369037-044802e1-887c-455f-9fa5-335d264a247f.png)
-
+[图片]![image](https://user-images.githubusercontent.com/41480235/145392317-498333cb-47fd-4d63-8dfe-c050bbc60b6d.png)
